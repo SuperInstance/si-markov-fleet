@@ -1,0 +1,6 @@
+[package]
+name = "si-markov-fleet"
+version = "0.1.0"
+edition = "2021"
+description = "Markov chain analysis for fleet state transitions — stationary distributions and mixing times"
+license = "MIT"
